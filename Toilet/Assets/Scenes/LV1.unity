@@ -234,7 +234,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4262214479775080800, guid: 932c2a3047993e349a0b91f1a2face8f, type: 3}
       propertyPath: m_Name
-      value: GameObject (6)
+      value: Baffle door (6)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -308,7 +308,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d364ebe48cc75d241b47b5096c1304ac, type: 3}
       propertyPath: m_Name
-      value: toilet paper roll holder with cover (3)
+      value: toilet paper roll (4)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -607,7 +607,7 @@ GameObject:
   m_Component:
   - component: {fileID: 153254351}
   m_Layer: 0
-  m_Name: GameObject (9)
+  m_Name: wall (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -803,7 +803,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 691d10047af7fef4497752ec29341c97, type: 2}
     - target: {fileID: 919132149155446097, guid: c799bed6122d0d947a2f0ce1904e4e98, type: 3}
       propertyPath: m_Name
-      value: Urinal (5)
+      value: Urinal (7)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -865,7 +865,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model (3)
+      value: lamp (4)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -891,7 +891,7 @@ GameObject:
   m_Component:
   - component: {fileID: 268149082}
   m_Layer: 0
-  m_Name: GameObject (7)
+  m_Name: wall (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1183,7 +1183,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d364ebe48cc75d241b47b5096c1304ac, type: 3}
       propertyPath: m_Name
-      value: toilet paper roll holder with cover (2)
+      value: toilet paper roll (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1748,7 +1748,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model (14)
+      value: lamp (15)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2074,7 +2074,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model (10)
+      value: lamp (11)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2394,7 +2394,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 691d10047af7fef4497752ec29341c97, type: 2}
     - target: {fileID: 919132149155446097, guid: c799bed6122d0d947a2f0ce1904e4e98, type: 3}
       propertyPath: m_Name
-      value: Urinal (7)
+      value: Urinal (5)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2530,7 +2530,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model (5)
+      value: lamp (10)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2768,7 +2768,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 691d10047af7fef4497752ec29341c97, type: 2}
     - target: {fileID: 919132149155446097, guid: c799bed6122d0d947a2f0ce1904e4e98, type: 3}
       propertyPath: m_Name
-      value: Urinal (1)
+      value: Urinal (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3094,7 +3094,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4262214479775080800, guid: 932c2a3047993e349a0b91f1a2face8f, type: 3}
       propertyPath: m_Name
-      value: GameObject (7)
+      value: Cleaning tool door
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3172,7 +3172,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 691d10047af7fef4497752ec29341c97, type: 2}
     - target: {fileID: 919132149155446097, guid: c799bed6122d0d947a2f0ce1904e4e98, type: 3}
       propertyPath: m_Name
-      value: Urinal (3)
+      value: Urinal (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3234,7 +3234,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model (7)
+      value: lamp (7)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -3399,7 +3399,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4262214479775080800, guid: 932c2a3047993e349a0b91f1a2face8f, type: 3}
       propertyPath: m_Name
-      value: GameObject (3)
+      value: Baffle door (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3523,7 +3523,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4262214479775080800, guid: 932c2a3047993e349a0b91f1a2face8f, type: 3}
       propertyPath: m_Name
-      value: GameObject (5)
+      value: Baffle door (5)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4228,7 +4228,7 @@ GameObject:
   - component: {fileID: 918712924}
   - component: {fileID: 918712923}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Urinal (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4459,7 +4459,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model (2)
+      value: lamp (3)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -4861,7 +4861,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model (8)
+      value: lamp (8)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -5432,7 +5432,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model (4)
+      value: lamp (5)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -5498,7 +5498,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4361771181133616630, guid: 645e68f7e30f7d143bbdaf49b3f1ea41, type: 3}
       propertyPath: m_Name
-      value: GameObject (1)
+      value: trash can (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5576,7 +5576,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 691d10047af7fef4497752ec29341c97, type: 2}
     - target: {fileID: 919132149155446097, guid: c799bed6122d0d947a2f0ce1904e4e98, type: 3}
       propertyPath: m_Name
-      value: Urinal (4)
+      value: Urinal (8)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5598,7 +5598,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1131660407}
   m_Layer: 0
-  m_Name: GameObject (8)
+  m_Name: wall (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5928,7 +5928,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d364ebe48cc75d241b47b5096c1304ac, type: 3}
       propertyPath: m_Name
-      value: toilet paper roll holder with cover
+      value: toliet paper roll (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6309,7 +6309,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1321734561}
   m_Layer: 0
-  m_Name: GameObject (10)
+  m_Name: wall (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6384,7 +6384,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4262214479775080800, guid: 932c2a3047993e349a0b91f1a2face8f, type: 3}
       propertyPath: m_Name
-      value: GameObject (4)
+      value: Baffle door (4)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6820,7 +6820,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model (11)
+      value: lamp (12)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -7554,7 +7554,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d364ebe48cc75d241b47b5096c1304ac, type: 3}
       propertyPath: m_Name
-      value: toilet paper roll holder with cover (4)
+      value: toilet paper roll (5)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7772,7 +7772,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model (6)
+      value: lamp (6)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -7843,7 +7843,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model (13)
+      value: lamp (14)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -8063,7 +8063,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d364ebe48cc75d241b47b5096c1304ac, type: 3}
       propertyPath: m_Name
-      value: toilet paper roll holder with cover (5)
+      value: toilet paper roll (6)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8338,7 +8338,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d364ebe48cc75d241b47b5096c1304ac, type: 3}
       propertyPath: m_Name
-      value: toilet paper roll holder with cover (1)
+      value: toilet paper roll (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8492,8 +8492,8 @@ Transform:
   - {fileID: 171772443}
   - {fileID: 1362397704}
   - {fileID: 1930947798}
-  - {fileID: 85923696}
   - {fileID: 1464236475}
+  - {fileID: 85923696}
   - {fileID: 1370363529}
   - {fileID: 1600000017}
   - {fileID: 310956191}
@@ -8974,7 +8974,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model (9)
+      value: lamp (9)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -9161,7 +9161,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 691d10047af7fef4497752ec29341c97, type: 2}
     - target: {fileID: 919132149155446097, guid: c799bed6122d0d947a2f0ce1904e4e98, type: 3}
       propertyPath: m_Name
-      value: Urinal
+      value: Urinal (4)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9323,7 +9323,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4262214479775080800, guid: 932c2a3047993e349a0b91f1a2face8f, type: 3}
       propertyPath: m_Name
-      value: GameObject (2)
+      value: Baffle door (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9565,7 +9565,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model (1)
+      value: lamp (2)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -10080,7 +10080,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model (12)
+      value: lamp (13)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -10328,7 +10328,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4361771181133616630, guid: 645e68f7e30f7d143bbdaf49b3f1ea41, type: 3}
       propertyPath: m_Name
-      value: GameObject
+      value: trash can (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10390,7 +10390,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4262214479775080800, guid: 932c2a3047993e349a0b91f1a2face8f, type: 3}
       propertyPath: m_Name
-      value: GameObject (1)
+      value: Baffle door (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10452,7 +10452,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3335126435483950933, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Name
-      value: model
+      value: lamp (1)
       objectReference: {fileID: 0}
     - target: {fileID: 3839393047857512064, guid: 19f64e63974122e4f8ac75de5ed554f8, type: 3}
       propertyPath: m_Materials.Array.data[0]
