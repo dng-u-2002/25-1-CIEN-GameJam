@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\Toilet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|c:\\users\\micha\\toilet\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|c:\\users\\micha\\toilet\\assets\\scripts\\ingame\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingame\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|C:\\Users\\micha\\Toilet\\assets\\scripts\\ingame\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingame\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|C:\\Users\\micha\\Toilet\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|C:\\Users\\micha\\Toilet\\assets\\scripts\\ui\\checklistuidrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\checklistuidrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|C:\\Users\\micha\\Toilet\\assets\\scripts\\strangeevent\\strangeeventmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\strangeevent\\strangeeventmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|C:\\Users\\micha\\Toilet\\assets\\scripts\\baseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\baseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|C:\\Users\\micha\\Toilet\\assets\\scripts\\gameflow\\gameflowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameflow\\gameflowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|C:\\Users\\micha\\Toilet\\assets\\scripts\\strangeevent\\se_l1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\strangeevent\\se_l1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|C:\\Users\\micha\\Toilet\\assets\\scripts\\ui\\checklistitemdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\checklistitemdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|C:\\Users\\micha\\Toilet\\assets\\scripts\\checklistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checklistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|C:\\Users\\micha\\Toilet\\assets\\scripts\\strangeevent\\se_l1_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\strangeevent\\se_l1_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|C:\\Users\\micha\\Toilet\\assets\\scripts\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|C:\\Users\\micha\\Toilet\\assets\\scripts\\strangeevent\\strangeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70E104E-15E3-F408-BDCF-BCE26C859822}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\strangeevent\\strangeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\InGame\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InGame\\Door.cs",
+              "ToolTip": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\InGame\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InGame\\Door.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:59:09.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:37:26.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InteractableObject.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\InGame\\InteractableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InGame\\InteractableObject.cs",
+              "ToolTip": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\InGame\\InteractableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InGame\\InteractableObject.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:32:57.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SE_L1_2.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\StrangeEvent\\SE_L1_2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StrangeEvent\\SE_L1_2.cs",
+              "ToolTip": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\StrangeEvent\\SE_L1_2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StrangeEvent\\SE_L1_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:25:54.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameFlowController.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\GameFlow\\GameFlowController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameFlow\\GameFlowController.cs",
+              "ToolTip": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\GameFlow\\GameFlowController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameFlow\\GameFlowController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:37:58.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SE_L1_1.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\StrangeEvent\\SE_L1_1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StrangeEvent\\SE_L1_1.cs",
+              "ToolTip": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\StrangeEvent\\SE_L1_1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StrangeEvent\\SE_L1_1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:21:34.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StrangeEvent.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\StrangeEvent\\StrangeEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StrangeEvent\\StrangeEvent.cs",
+              "ToolTip": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\StrangeEvent\\StrangeEvent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StrangeEvent\\StrangeEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:20:58.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StrangeEventMap.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\StrangeEvent\\StrangeEventMap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StrangeEvent\\StrangeEventMap.cs",
+              "ToolTip": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\StrangeEvent\\StrangeEventMap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StrangeEvent\\StrangeEventMap.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:14:15.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:09:29.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckListUIDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\UI\\CheckListUIDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CheckListUIDrawer.cs",
+              "ToolTip": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\UI\\CheckListUIDrawer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CheckListUIDrawer.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwEAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:54:42.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseObject.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\BaseObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseObject.cs",
+              "ToolTip": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\BaseObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BaseObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:54:26.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckListItemDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\UI\\CheckListItemDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CheckListItemDrawer.cs",
+              "ToolTip": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\UI\\CheckListItemDrawer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CheckListItemDrawer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:51:36.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckListItem.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\CheckListItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckListItem.cs",
+              "ToolTip": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\CheckListItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckListItem.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:48:41.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CheckList.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\CheckList.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckList.cs",
+              "ToolTip": "C:\\Users\\micha\\Toilet\\Assets\\Scripts\\CheckList.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:47:16.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
